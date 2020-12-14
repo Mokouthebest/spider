@@ -1,2 +1,1 @@
-# spider
-douban spider
+# 将豆瓣排名TOP250的电影进行python的网络爬虫
